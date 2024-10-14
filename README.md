@@ -1,4 +1,4 @@
-# Melanin Beauty - HTML & CSS Only
+_2# Melanin Beauty - HTML & CSS Only
 
 ![GitHub top language](https://img.shields.io/github/languages/top/dimainc26/melanin_beauty)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dimainc26/melanin_beauty)
@@ -13,8 +13,7 @@
 
 ## Captures d'écran
 ![Home Screen](https://github.com/dimainc26/melanin_beauty/blob/main/assets/home.png)
-![Gallery](https://github.com/dimainc26/melanin_beauty/blob/main/assets/gallery.png)
-![About](https://github.com/dimainc26/melanin_beauty/blob/main/assets/about.png)
+![Home 2](https://github.com/dimainc26/melanin_beauty/blob/main/assets/home_2.png)
 
 ## Démo
 [Lien vers la démo](https://dev.dimazanre.com/melanin_beauty)
