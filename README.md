@@ -1,12 +1,23 @@
-# melanin_beauty
+# Melanin Beauty - HTML & CSS Only
 
+![GitHub top language](https://img.shields.io/github/languages/top/dimainc26/melanin_beauty)
+![GitHub repo size](https://img.shields.io/github/repo-size/dimainc26/melanin_beauty)
+![GitHub last commit](https://img.shields.io/github/last-commit/dimainc26/melanin_beauty)
 
+## Description
+**Melanin Beauty** est un site web visuellement captivant, dédié à la célébration de la beauté et de la diversité des femmes africaines. Ce projet met en lumière une collection de photographies qui illustrent la splendeur naturelle et le style unique des femmes africaines, tout en valorisant leurs riches cultures. À travers des galeries de photos soigneusement présentées, **Melanin Beauty** offre un espace où les visiteurs peuvent découvrir et apprécier la richesse de la mélanine, cette pigmentation naturelle de la peau. Le site capture l'authenticité et la singularité de chaque modèle, mettant en avant une diversité de styles, d'expressions et de traditions culturelles. Chaque image célèbre la beauté naturelle des femmes africaines, en exposant leurs différentes teintes de peau, leurs coiffures, ainsi que leurs tenues et accessoires distinctifs.
 
-HTML - CSS Only --- Melanin Beauty est un site web captivant qui célèbre la beauté et la diversité des femmes africaines.
+## Technologies utilisées
+- HTML
+- CSS
 
-Description:
+## Captures d'écran
+![Home Screen](https://github.com/dimainc26/melanin_beauty/blob/main/assets/home.png)
+![Gallery](https://github.com/dimainc26/melanin_beauty/blob/main/assets/gallery.png)
+![About](https://github.com/dimainc26/melanin_beauty/blob/main/assets/about.png)
 
-Melanin Beauty est un site web captivant qui célèbre la beauté et la diversité des femmes africaines. Il se distingue par sa collection de photographies mettant en lumière la splendeur naturelle et le style unique des femmes africaines, tout en mettant en avant leurs différentes cultures. Ce site offre un espace visuel et culturel où les visiteurs peuvent découvrir et apprécier la richesse de la melanin, la pigmentation naturelle de la peau. A travers des galeries de photos magnifiquement présentées, "Melanin Beauty" capture l'authenticité et la singularité de chaque modèle, reflétant ainsi une variété de styles, d'expressions et de traditions culturelles. Les images mettent en avant la beauté naturelle des femmes africaines, célébrant leurs différentes teintes de peau, coiffures, tenues et accessoires.
+## Démo
+[Lien vers la démo](https://dev.dimazanre.com/melanin_beauty)
 
-
-Dima Inc.
+## Contributions
+Les contributions sont les bienvenues. N'hésitez pas à soumettre des pull requests ou à ouvrir des issues pour discuter des améliorations.
