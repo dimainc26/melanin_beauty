@@ -1,0 +1,223 @@
+@import url("https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Beau Rivage";
+  font-weight: bold;
+  --primary-color: rgb(235, 235, 235);
+  --glass-gradient: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0)
+  );
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.glass {
+  background: var(--glass-gradient);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+/* _______________________________ */
+
+body {
+  background-color: dodgerblue;
+}
+nav {
+    padding: 12px 5%;
+    transition: 0.4s linear;
+    max-height: 200px;
+    position: relative;
+    z-index: 5;
+  }
+  
+  nav:hover {
+    background: var(--glass-gradient);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  }
+  
+  ul {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .nav-link {
+    font-size: 2rem;
+    letter-spacing: 4px;
+    padding: 6px 12px;
+    position: relative;
+    color: var(--primary-color);
+    text-decoration: none;
+  }
+  
+  .nav-link::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 0;
+    background-color: var(--primary-color);
+    transition: width 0.8s ease;
+  }
+  
+  .nav-link:hover::after {
+    width: 100%;
+  }
+  
+/* _______________________________ */
+
+header {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 3;
+    top: 0;
+    background-image: url("../imgs/a.jpg");
+    background-position: top left;
+    background-size: cover;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+header > div {
+    display: flex;
+    position: absolute;
+    width: 300%;
+    overflow: hidden;
+    height: 100%;
+    top: 0;
+    left: 0;
+    animation: slider_images 36s ease-in-out infinite;
+}
+
+header > div > p {
+    width: 33.33%;
+    height: 100%;
+    object-fit: cover;
+}
+
+[class^=img-] {
+    width: 100%;
+    height: 100%;
+    background-position: 0 -200px;
+    background-size: cover;
+}
+
+p.img-1 {
+    background-image: url("../imgs/a.jpg");
+}
+p.img-2 {
+    background-image: url("../imgs/b.jpg");
+}
+p.img-3 {
+    background-image: url("../imgs/c.jpg");
+}
+
+@keyframes slider_images {
+    0% {
+        transform: translateX(0);
+    }
+    20% {
+        transform: translateX(-33.33%);
+    }
+    40% {
+        transform: translateX(-66.66%);
+    }
+    60% {
+        transform: translateX(-100%);
+    }
+    80% {
+        transform: translateX(-66.66%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+h1 {
+    font-size: 6rem;
+    color: var(--primary-color);
+    backdrop-filter: blur(1px);
+    z-index: 5;
+    padding: 0;
+    margin: 0;
+    line-height: 0;
+}
+
+h1 > span {
+    text-decoration: underline;
+    background: linear-gradient(to right, white, yellow, dodgerblue);
+    background-clip: text;
+    color: transparent;
+}
+
+/* _______________________________ */
+
+/* to replace after absolute header */
+
+.replace {
+    margin-top: 400px;
+}
+
+/* _______________________________ */
+
+section {
+    background-color: red;
+    height: 400px;
+}
+
+/* _______________________________ */
+
+.layout-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    width: min(100%);
+    grid-auto-rows: auto;
+}
+
+.layout-container > img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: 0.5s;
+}
+
+.layout-container > img.double {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+.layout-container > img:hover {
+    transform: scale(0.9);
+}
