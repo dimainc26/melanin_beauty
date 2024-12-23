@@ -1,0 +1,27 @@
+{
+    "name": "Melanin Beauty",
+    "short_name": "Melanin Beauty",
+    "description": "High Melanin Beauty",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#4B3412",
+    "theme_color": "#4B3412",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/assets/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "scope": "/",
+    "categories": ["utilities", "productivity"],
+    "lang": "it-IT",
+    "dir": "ltr"
+  }
+  
