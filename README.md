@@ -2,24 +2,28 @@
 
 # ✨ Melanin Beauty
 
-> *Celebrating the natural beauty and diversity of African women through photography.*
+> _Celebrating the natural beauty and diversity of African women through photography._
 
 <br/>
 
 <!-- Primary language — top -->
+
 ![GitHub top language](https://img.shields.io/github/languages/top/dimainc26/melanin_beauty?style=for-the-badge&color=c8a96e&labelColor=1a1a1a)
 
 <!-- Other languages -->
+
 ![HTML](https://img.shields.io/badge/HTML-used-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-used-264de4?style=flat-square&logo=css3&logoColor=white)
 
 <!-- Repo stats -->
+
 ![GitHub stars](https://img.shields.io/github/stars/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
 ![GitHub forks](https://img.shields.io/github/forks/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
 ![GitHub issues](https://img.shields.io/github/issues/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fdev.dimazanre.dev%2Fmelanin_beauty&style=flat-square&color=c8a96e&labelColor=1a1a1a)
 
 <!-- Last commit — always at the bottom -->
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/dimainc26/melanin_beauty?style=flat-square&color=888888&labelColor=1a1a1a)
 
 <br/>
@@ -42,10 +46,10 @@ Each image celebrates the natural beauty of African women, featuring their diffe
 
 ## 🛠 Technologies Used
 
-| Technology | Purpose |
-|---|---|
+| Technology                                                                                      | Purpose            |
+| ----------------------------------------------------------------------------------------------- | ------------------ |
 | ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white) | Structure & markup |
-| ![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white) | Styling & layout |
+| ![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)    | Styling & layout   |
 
 ---
 
@@ -53,9 +57,9 @@ Each image celebrates the natural beauty of African women, featuring their diffe
 
 <div align="center">
 
-| Home | Hero Section |
-|:---:|:---:|
-| ![Home Screen](https://github.com/dimainc26/melanin_beauty/blob/main/assets/home.png) | ![Home 2](https://github.com/dimainc26/melanin_beauty/blob/main/assets/home_2.png) |
+|                                          Home                                           |                                    Hero Section                                    |
+| :-------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| ![Home Screen](https://github.com/dimainc26/melanin_beauty/blob/main/assets/home_1.png) | ![Home 2](https://github.com/dimainc26/melanin_beauty/blob/main/assets/home_2.png) |
 
 </div>
 
