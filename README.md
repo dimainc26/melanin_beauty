@@ -14,7 +14,6 @@
 ![CSS](https://img.shields.io/badge/CSS-used-264de4?style=flat-square&logo=css3&logoColor=white)
 
 <!-- Repo stats -->
-![GitHub repo size](https://img.shields.io/github/repo-size/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
 ![GitHub stars](https://img.shields.io/github/stars/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
 ![GitHub forks](https://img.shields.io/github/forks/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
 ![GitHub issues](https://img.shields.io/github/issues/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
@@ -80,6 +79,6 @@ This project is open source. See the [LICENSE](./LICENSE) file for details.
 
 <div align="center">
 
-Made with ❤️ by [dimainc26](https://github.com/dimainc26)
+Chill project by [dimainc26](https://github.com/dimainc26)
 
 </div>
