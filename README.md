@@ -24,7 +24,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-c8a96e?style=for-the-badge&labelColor=1a1a1a)](https://dev.dimazanre.dev/melanin_beauty)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-c8a96e?style=for-the-badge&labelColor=1a1a1a)](https://projects.dimazanre.dev/melanin_beauty)
 
 </div>
 
