@@ -17,14 +17,14 @@
 ![GitHub stars](https://img.shields.io/github/stars/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
 ![GitHub forks](https://img.shields.io/github/forks/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
 ![GitHub issues](https://img.shields.io/github/issues/dimainc26/melanin_beauty?style=flat-square&color=c8a96e&labelColor=1a1a1a)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fdev.dimazanre.com%2Fmelanin_beauty&style=flat-square&color=c8a96e&labelColor=1a1a1a)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fdev.dimazanre.dev%2Fmelanin_beauty&style=flat-square&color=c8a96e&labelColor=1a1a1a)
 
 <!-- Last commit — always at the bottom -->
 ![GitHub last commit](https://img.shields.io/github/last-commit/dimainc26/melanin_beauty?style=flat-square&color=888888&labelColor=1a1a1a)
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-c8a96e?style=for-the-badge&labelColor=1a1a1a)](https://dev.dimazanre.com/melanin_beauty)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-c8a96e?style=for-the-badge&labelColor=1a1a1a)](https://dev.dimazanre.dev/melanin_beauty)
 
 </div>
 
