@@ -1,4 +1,4 @@
-_2# Melanin Beauty - HTML & CSS Only
+# Melanin Beauty - HTML & CSS Only
 
 ![GitHub top language](https://img.shields.io/github/languages/top/dimainc26/melanin_beauty)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dimainc26/melanin_beauty)
